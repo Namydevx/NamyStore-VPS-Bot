@@ -17,7 +17,7 @@ Bot ini cocok untuk pemilik layanan penjualan akun VPS/VPN, dan bisa diintegrasi
 - ✅ Otomatisasi **auto-delete akun** setelah masa berlaku
 - ✅ Limit akun **1 nomor/hari**
 - ✅ Pemrosesan **OCR bukti pembayaran**
-- ✅ Kompatibel dengan sistem **freemium/premium**
+- ✅ Kompatibel dengan sistem **trial/premium**
 - ✅ Terintegrasi dengan file konfigurasi Xray/OpenVPN
 
 ---
